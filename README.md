@@ -1,5 +1,11 @@
 # UAS_PENGOLAHAN-CITRA
 
+````py
+Nama  : Muhamad Ali M
+Nim   : 312210540
+Kelas : TI.22.B2
+``
+
 ```py
 import numpy as np
 import matplotlib.pyplot as plt
@@ -45,4 +51,5 @@ segmented_data = centers[labels.flatten()]
 segmented_image = segmented_data.reshape((image.shape))
 plt.imshow(segmented_image)
 ``
-```
+
+````
