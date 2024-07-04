@@ -46,3 +46,11 @@ plt.imshow(segmented_image)
 # MAKA HASIL NYA
 
 ![image](IMG/monarch2.jpeg)
+
+# CONTOH 2
+
+![image](IMG/S.jpg)
+
+# MAKA HASIL NYA
+
+![image](IMG/Hasil%20S.JPG)
