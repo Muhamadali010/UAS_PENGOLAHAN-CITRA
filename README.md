@@ -52,6 +52,6 @@ segmented_image = segmented_data.reshape((image.shape))
 plt.imshow(segmented_image)
 ``
 
-![image](IMG/K.jpg)
+![img](IMG/K.jpg)
 
 ````
