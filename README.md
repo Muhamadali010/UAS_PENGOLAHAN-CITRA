@@ -53,3 +53,7 @@ plt.imshow(segmented_image)
 ```
 
 ![image](IMG/K.jpg)
+
+# MAKA HASIL NYA
+
+![image](IMG/K.jpeg)
