@@ -1,6 +1,6 @@
 # UAS_PENGOLAHAN-CITRA
 
-``py
+```py
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
@@ -44,4 +44,5 @@ segmented_data = centers[labels.flatten()]
 
 segmented_image = segmented_data.reshape((image.shape))
 plt.imshow(segmented_image)
-``py
+``
+```
