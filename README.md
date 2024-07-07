@@ -6,6 +6,12 @@ Nim   : 312210540
 Kelas : TI.22.B2
 ```
 
+## A. K-means Clustering
+
+K-means Clustering adalah metode segmentasi gambar yang digunakan untuk mengelompokkan data (_piksel-piksel_) ke dalam sejumlah bagian (_cluster_) berdasarkan kesamaan warna, tekstur atau intensitasnya. Tujuannya adalah untuk menyederhanakan representasi gambar dan mempermudah analisis dengan mengelompokkan piksel yang memiliki karakteristik serupa ke dalam kluster yang sama.
+
+![image](IMG/contoh.png)
+
 ```py
 import numpy as np
 import matplotlib.pyplot as plt
